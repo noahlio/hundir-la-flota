@@ -41,6 +41,7 @@ def mapeado(mapa,elegir):
   print("H"+sl+str(mapa[7][0])+s+str(mapa[7][1])+s+str(mapa[7][2])+s+str(mapa[7][3])+s+str(mapa[7][4])+s+str(mapa[7][5])+s+str(mapa[7][6])+s+str(mapa[7][7]))
   print("\n\n\n"+error)
 
+  
 def mapeado_marcado(mapa,turno):
   
   print(turno.center(57,"="))

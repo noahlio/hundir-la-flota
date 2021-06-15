@@ -17,7 +17,6 @@ def numerar(let):
     return 6
   elif let=="H":
     return 7
-
   
 def mapeado(mapa,elegir):
   

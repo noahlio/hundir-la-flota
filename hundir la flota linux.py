@@ -18,6 +18,7 @@ def numerar(let):
   elif let=="H":
     return 7
 
+  
 def mapeado(mapa,elegir):
   
   print(elegir.center(57,"="))
